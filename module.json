@@ -108,6 +108,9 @@
       }
     ]
   },
-  "description": "",
-  "flags": {}
+  "description": "Addon include core and homebrew assets that have been manually imported",
+  "flags": {},
+  "url": "https://github.com/pwolthausen/addon-core-homebrew",
+  "manifest": "https://raw.githubusercontent.com/pwolthausen/addon-core-homebrew/refs/heads/main/module.json",
+  "download": "https://raw.githubusercontent.com/pwolthausen/addon-core-homebrew/refs/heads/main/module.zip"
 }
