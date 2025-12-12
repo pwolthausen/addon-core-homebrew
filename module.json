@@ -1,12 +1,29 @@
 {
   "id": "addon-core-rules",
   "title": "Addon Core Rules",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "compatibility": {
     "minimum": "12",
     "verified": "13",
     "maximum": "13"
   },
+  "packFolders": [
+    {
+      "name": "Addon and Homebrew",
+      "sorting": "a",
+      "packs": [
+        "equipment",
+        "creature-feats",
+        "spells",
+        "custom-classes",
+        "custom-races",
+        "roll-tables",
+        "merchants"
+      ],
+      "color": null,
+      "folders": []
+    }
+  ],
   "packs": [
     {
       "name": "equipment",
