@@ -147,6 +147,6 @@
   "description": "<p>Addon include core and homebrew assets that have been manually imported</p>",
   "url": "https://github.com/pwolthausen/addon-core-homebrew",
   "manifest": "https://raw.githubusercontent.com/pwolthausen/addon-core-homebrew/refs/heads/main/module.json",
-  "download": "https://gitlab.com/api/v4/projects/77159185/packages/generic/addons_core_homebrew/1.1.7/module.zip",
+  "download": "https://gitlab.com/api/v4/projects/77159185/packages/generic/addons_core_homebrew/1.1.8/module.zip",
   "flags": {}
 }
